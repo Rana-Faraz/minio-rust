@@ -2,6 +2,13 @@
 name = "minio-rust"
 version = "0.1.0"
 edition = "2021"
+description = "An experimental Rust port of the MinIO object storage server"
+license = "AGPL-3.0-only"
+readme = "README.md"
+repository = "https://github.com/Rana-Faraz/minio-rust"
+homepage = "https://github.com/Rana-Faraz/minio-rust"
+keywords = ["minio", "s3", "object-storage", "storage"]
+categories = ["command-line-utilities", "web-programming::http-server"]
 
 [dependencies]
 base64 = "0.22"
